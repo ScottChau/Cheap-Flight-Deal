@@ -29,11 +29,7 @@ The SMS includes the departure airport IATA code, destination airport IATA code,
 
 Aims
 
-The project aims to look for cheap flight deals in the market, customer can register on https://replit.com/@ScottChau/Cheapest-Flight-Deal , information 
-
-will be log onto google sheet https://docs.google.com/spreadsheets/d/1W9pAWHxKG7NN7l-A_17P91-OllHmk7OJVHraNwpwzKA/edit#gid=606545007 , cheap flight deal
-
-will be sent to the email on google sheet accordingly when running the program.
+The project aims to look for cheap flight deals in the market, customer can register on https://replit.com/@ScottChau/Cheapest-Flight-Deal , information will be log onto google sheet https://docs.google.com/spreadsheets/d/1W9pAWHxKG7NN7l-A_17P91-OllHmk7OJVHraNwpwzKA/edit#gid=606545007 , cheap flight deal will be sent to the email on google sheet accordingly when running the program.
 
 Please be reminded filling all of the corresponding API key/token before running the program
 
